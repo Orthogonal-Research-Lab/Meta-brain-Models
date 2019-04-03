@@ -4,12 +4,12 @@
 
 This directory is for potential collaborators who would like to contribute suggestions for new opportunities for simulation or point to potential contributions (potential datasets, visualizations, and data analyses).
 
-Contextual Geometric Structures (CGS) repositories: 
+[Contextual Geometric Structures (CGS)](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/CGS) repositories: 
 
 1) CGS, main repository   [link](https://github.com/Orthogonal-Research-Lab/CGS)
 
 2) CGS-1, fork for GSoC 2018 student Cheng-Hsun (Jim) Hsueh   [link](https://github.com/Orthogonal-Research-Lab/CGS-1)
 
-Connectionist model repositories:
+[Ideological Connectionist Model (ICM)](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/ICM) repositories:
 
 1) Ideological Game Theory   [link](https://github.com/Orthogonal-Research-Lab/Ideological-Game-Theory)
