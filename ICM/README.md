@@ -1,0 +1,1 @@
+## Ideological Connectionist Model
