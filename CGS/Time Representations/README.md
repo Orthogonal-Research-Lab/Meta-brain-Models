@@ -8,12 +8,12 @@ How do we represent time?
 
 Using the flow of time at different rates (similar to SimCity):
 
-* flow proceeds, can be sped up or slowed down.
+* flow proceeds, can be sped up or slowed down (in physical world, time flows).
 
-* "universal" representation (links culture and computation).
+* "quasi-universal" representation (links culture and computation).
 
 Using a flow of time that is circular, nonlinear:
 
 * flow is relative to repeating events (recurrence).
 
-* can we derive a universal model?
+* can we derive a quasi-universal model? Does time flow according to physics? Depends on the simulation world.
