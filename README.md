@@ -1,6 +1,8 @@
 ## Meta-brain Models
 <p align="center">
 Open-source contributor guide  
+</p>
+<p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Assets%20and%20Media/Meta-brain%20Model%20I.png"><BR> 
 </p>  
   
