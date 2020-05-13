@@ -15,6 +15,9 @@ Brooks, R. (1991). [Intelligence without Representation](http://www2.denizyuret.
 
 Cesario, J., Johnson, D.J., and Eisthen, H.L. (2020). [Your Brain Is Not an Onion With a Tiny Reptile Inside](https://journals.sagepub.com/eprint/TWK8BX6W2M4FFRTYXBZD/full). _Current Directions in Psychological Science_, 1–6.
 
+Cisek, P. (2019). [Resynthesizing behavior through phylogenetic refinement](https://www.researchgate.net/publication/333586383_Resynthesizing_behavior_through_phylogenetic_refinement). _Attention, Perception, and Psychophysics_, 81,
+2265-2287.
+
 Hao, K. (2020). [A debate between AI experts shows a battle over the technology’s future](https://www.technologyreview.com/2020/03/27/950247/ai-debate-gary-marcus-danny-lange/). _MIT Technology Review_, March 27.
 
 Wolff, M. and Vann, S.D. (2019). [The Cognitive Thalamus as a Gateway to Mental Representations](https://www.jneurosci.org/content/39/1/3). _Journal of Neuroscience_, 39(1), 3-14. doi:10.1523/JNEUROSCI.0479-18.2018
