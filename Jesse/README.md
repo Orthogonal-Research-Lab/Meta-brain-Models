@@ -2,6 +2,7 @@
 
 
 ## Project Log
+- 05.20 - Neuromatch 2.0 Application Submission
 - 05.18 - MbM Repo and initial project board set up
 - 05.09 - OREL Saturday Morning Neurosim presentation on ICLR 2020 (and BAICS workshop)
 - 05.04 - GSoC Results Announced
