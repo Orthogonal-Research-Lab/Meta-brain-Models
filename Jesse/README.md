@@ -8,7 +8,7 @@
 - 04.30 - GSoC Proposal Submitted 
 
 ### Neuromatch 2.0 Submission Proposal 
-Embodied Cognition & Contextual Neurodevelopmental Dynamics : Developmental Braitenberg Vehicles To Model Levels of Representation 
+Embodied Cognition & Contextual Neurodevelopmental Dynamics : Modeling  Levels of Representation with Developmental Braitenberg Vehicles
 
 Traditional views may posit intelligence as only operating under the jurisdiction of the mind and an isolated thinking organ, the brain. Yet developments in the interdisciplinary field of embodied cognition investigate the connection between an agent's inner world, body, and its nervous system; this also touches upon longstanding issues in the areas of behavioral science, artificial intelligence, and neurobiology. A broad set of inquiries fall under the question: how much representation is required for complex behavior?
 
