@@ -1,4 +1,4 @@
-Presentation on Morphogenetic Agents and Moire Patterns as Morphogenesis  [link](https://docs.google.com/presentation/u/1/d/13mrxTbZifXhF9MOCN3ElU_lquGwVywPULFGdVJd6c3U/edit?usp=drive_web&ouid=107684555293287274254)  
+Presentation on Morphogenetic Agents and Moire Patterns as Morphogenesis  [link](https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/README.md)  
 
 Moire patterns  [link](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)
 
