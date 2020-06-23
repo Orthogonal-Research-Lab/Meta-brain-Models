@@ -1,13 +1,17 @@
 ## Allostasis machines
 
-Allostasis as dynamics.
+#### Allostasis as dynamics.
 
-* what shifts systems to new homeostatic states (set points)?
+What shifts systems to new homeostatic states (set points)?
 
-Allostatic drive as differentiation.
+1) anomalous diffusion.
 
-* learn-unlearn-relearn (switching) as induction of allostatic drive.
+2) phase transitions, or difference between i) recoverable allostatic load (recovery) and ii) hysteretic allostatic load (shift).
 
-* tree representation of states, as a map between stable homeostatic states (internal models) and external switches.
+#### Allostatic drive as differentiation.
 
-How does a network of neurons respond to a stressor?
+1) learn-unlearn-relearn (switching) as induction of allostatic drive.
+
+2) tree representation of states, as a map between stable homeostatic states (internal models) and external switches.
+
+#### How does a network of neurons respond to a stressor?
