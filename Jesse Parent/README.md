@@ -2,11 +2,15 @@
 
 
 ## Project Log
+- 06.20 - Affordances Subproject in progress
 - 05.20 - Neuromatch 2.0 Application Submission
 - 05.18 - MbM Repo and initial project board set up
 - 05.09 - OREL Saturday Morning Neurosim presentation on ICLR 2020 (and BAICS workshop)
 - 05.04 - GSoC Results Announced
 - 04.30 - GSoC Proposal Submitted 
+
+
+## Associated Materials 
 
 ### Neuromatch 2.0 Submission Proposal 
 Embodied Cognition & Contextual Neurodevelopmental Dynamics : Modeling  Levels of Representation with Developmental Braitenberg Vehicles
