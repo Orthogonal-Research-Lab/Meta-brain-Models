@@ -53,7 +53,7 @@
 <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Agent-based%20Modeling/ABM-lecture/Slide17-5.png"><BR>
 </p>
 <p align="center">
-<img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Agent-based%20Modeling/ABM-lecture/Slide18.png"><BR>
+<img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Agent-based%20Modeling/ABM-lecture/Slide18-5.png"><BR>
 </p>
 <p align="center">
 <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Agent-based%20Modeling/ABM-lecture/Slide19.png"><BR>
