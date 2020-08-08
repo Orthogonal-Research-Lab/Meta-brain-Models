@@ -1,5 +1,7 @@
 ## Allostasis machines
 
+!(https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Allostasis%20Machines/Slides/INTRO-SLIDE.png)
+
 #### Allostasis as dynamics.
 
 What shifts systems to new homeostatic states (set points)?
