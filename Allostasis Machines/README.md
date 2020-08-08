@@ -1,5 +1,3 @@
-## Allostasis machines
-
 <p align="center">
 <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Allostasis%20Machines/Slides/INTRO-SLIDE.png"><BR>
 </p>
