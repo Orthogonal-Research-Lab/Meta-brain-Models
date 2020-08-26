@@ -21,3 +21,10 @@ What shifts systems to new homeostatic states (set points)?
 1) perceptual agent (nearest-neighbor influence). Behaves like a nerve net, cellular automata.
 
 2) stressor can increase or decrease the sensitivity of each cell, so that "load" propagates across the cell array in different ways.
+
+#### Allostatic Regulation as a Representation
+
+<p align="center">
+<img src=""><BR>
+</p>
+
