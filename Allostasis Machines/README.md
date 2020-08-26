@@ -22,9 +22,9 @@ What shifts systems to new homeostatic states (set points)?
 
 2) stressor can increase or decrease the sensitivity of each cell, so that "load" propagates across the cell array in different ways.
 
-#### Allostatic Regulation as a Representation
+#### Allostatic Regulation as a Representation of Aggregate Effects (Allostasis Machine)
 
 <p align="center">
-<img src=""><BR>
+<img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Allostasis%20Machines/Allostasis%20Machines.png"><BR>
 </p>
 
