@@ -10,5 +10,9 @@ Notes on Gibsonian Information:
 
 In both of these examples, we encounter a distribution of phase angles. In the first examples, this measures the degree of overlap at each corner. Since these corners are generally flat, these angles are all identical. Their value, however, provides us with a distribution in radians that can be compared against a measure of visual coherence. This visual coherence is demonstrated in anaglyphs and isometric illusions. When the overlapping squares are perceived as a cube, the visual coherence measure is maximized. The relatuion between overlap in radians and visual coherence is known as the Gibsonian Information function.
 
-2) 
+2) Maximum and Minimum Coherent Movement:
+
+* corresponds to Hmax and Hmin in Shannon Information.
+
+* changes in the disjoint distribution over time relative to changes in the observer's position. For a viewpoint network, the disjoint distirbution is static.
 
