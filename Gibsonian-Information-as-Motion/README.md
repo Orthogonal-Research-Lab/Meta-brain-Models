@@ -16,3 +16,7 @@ In both of these examples, we encounter a distribution of phase angles. In the f
 
 * changes in the disjoint distribution over time relative to changes in the observer's position. For a viewpoint network, the disjoint distirbution is static.
 
+Mention in BabyMinds paper:
+
+* can we start to develop a quantitative model (Gibsonian Information as the basis for developmental freedom, or learning exploration on a narly-static neural network).
+
