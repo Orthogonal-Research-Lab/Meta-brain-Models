@@ -12,7 +12,7 @@ In both of these examples, we encounter a distribution of phase angles. In the f
 
 2) Maximum and Minimum Coherent Movement:
 
-* corresponds to Hmax and Hmin in Shannon Information.
+* corresponds to $H_max$ and $H_min$ in Shannon Information.
 
 * changes in the disjoint distribution over time relative to changes in the observer's position. For a viewpoint network, the disjoint distirbution is static.
 
