@@ -18,5 +18,6 @@ In both of these examples, we encounter a distribution of phase angles. In the f
 
 Mention in BabyMinds paper:
 
-* can we start to develop a quantitative model (Gibsonian Information as the basis for developmental freedom, or learning exploration on a narly-static neural network).
+* can we start to develop a quantitative model (Gibsonian Information as the basis for developmental freedom, or learning exploration on a nearly-static neural network).
 
+See Neuromatch slides on [Developmental AI](https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/AI%20as%20an%20Embodied%20Developmental%20Process/Abstract-and-slides.md) 
