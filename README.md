@@ -11,7 +11,7 @@ Meta-brain models are hybrid models that include both a representation-free comp
 
 Examples of a representation-free model includes Braitenberg Vehicles or Neural Networks. Examples of a representation-rich model (from our library) includes Contextual Geometric Structures or Ideological Connectionist models. We have a library of possible model configurations, or incorporate your own! 
 
-This project involves three aims: creating models with different degrees of representational complexity, creating a layered meta-architecture that mimics the structural and functional heterogeneity of biological brains, and an input/output methodology that allows for the modeling of correlates in the form of molecular and behavioral phenomena.
+This project involves three aims: creating models with different degrees of representational complexity, creating a layered meta-architecture that mimics the structural and functional heterogeneity of biological brains, and an input/output methodology that allows for both behavioral and social phenomena.
 
 General References:  
 Brooks, R. (1991). [Intelligence without Representation](http://www2.denizyuret.com/ref/brooks/brooks.pdf). _Artificial Intelligence_, 47, 139-159.  
