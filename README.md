@@ -13,6 +13,14 @@ Examples of a representation-free model includes Braitenberg Vehicles or Neural 
 
 This project involves three aims: creating models with different degrees of representational complexity, creating a layered meta-architecture that mimics the structural and functional heterogeneity of biological brains, and an input/output methodology that is flexible enough to input/output methodology that is flexible enough to accommodate both behavioral and social phenomena.
 
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Assets%20and%20Media/Meta-brain%20Model%20III.png"><BR> 
+</p>  
+  
+<p align="center">
+Layered nervous system for a bio-inspired agent. 
+</p>
+
 General References:  
 Brooks, R. (1991). [Intelligence without Representation](http://www2.denizyuret.com/ref/brooks/brooks.pdf). _Artificial Intelligence_, 47, 139-159.  
 
