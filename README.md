@@ -18,7 +18,7 @@ This project involves three aims: creating models with different degrees of repr
 </p>  
   
 <p align="center">
-Layered nervous system for a bio-inspired agent. 
+Layered nervous system as stacked computational model for a bio-inspired agent. 
 </p>
 
 General References:  
